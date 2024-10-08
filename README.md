@@ -22,4 +22,4 @@ Fedora
 
 # How to use
 chmod +x git_clone <br>
-./git_clone "git directory" "Path"
+./git_clone "repo directory" "Path"
