@@ -11,7 +11,7 @@ Debian
 -- sudo apt install git
 
 Fedora
--- yum install git (up to Fedora 21)
+-- yum install git (up to Fedora 21) <br>
 -- dnf install git (Fedora 22 and later)
 
 !!This will remove all the files and folders from the path you specify be very careful when you input the path!!
