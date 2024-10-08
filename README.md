@@ -17,5 +17,5 @@ Fedora
 !!This will remove all the files and folders from the path you specify be very careful when you input the path!!
 
 # How to use
-chmod +x git_clone
+chmod +x git_clone <br>
 ./git_clone "git directory" "Path"
