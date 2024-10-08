@@ -1,6 +1,6 @@
 # clone-git
 
-Made for cloning a git hub repository
+Made for cloning a git hub repository. Make sure the repository is public this will not work otherwise.
 
 !!So far this is only made to work on linux!!
 
